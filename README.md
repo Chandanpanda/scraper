@@ -8,7 +8,7 @@ Usage:
 * `INFILE_NAME`: This is the name of the input file.
 * `MODE` : 0 to overwrite `INFILE_NAME` with suggestions, 1 to create new file and write the suggestions there.
 
-##Example 
+## Example 
 Input:
 > how
 >
