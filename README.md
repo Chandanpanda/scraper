@@ -5,8 +5,8 @@ Inspired by [this image](https://i.redd.it/9dukhq4nwfdz.jpg), scraper.py takes a
 Usage:
 `python scraper.py INFILE_NAME MODE`
 
-* `INFILE_NAME`: This is the name of the input file.
-* `MODE` : 0 to overwrite `INFILE_NAME` with suggestions, 1 to create new file and write the suggestions there.
+* `INFILE_NAME` This is the name of the input file.
+* `MODE` 0 to overwrite `INFILE_NAME` with suggestions, 1 to create new file and write the suggestions there.
 
 ## Example 
 Input:
