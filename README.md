@@ -5,5 +5,6 @@ Takes an input text file and scrapes autocomplete suggestions for every line in 
 Usage:
 `python scraper.py INFILE_NAME MODE`
 
-`INFILE_NAME` is the name of the input file 
+`INFILE_NAME` is the name of the input file
+
 `MODE` 0 to overwrite `INFILE_NAME` with suggestions, 1 to create new file and write the suggestions there.
