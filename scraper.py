@@ -29,6 +29,7 @@ def main():
 				request = urllib2.Request(url)
 				response = urllib2.urlopen(request)
 				fills = json.loads(response.read())
+				outfile.write(fills[1][0] + '\n')
 		outfile.close()
 	else:
 		print 'Error: invalid MODE provided.\n\nUsage: python scraper.py INFILE MODE\n MODE: 0 to overwrite input file, 1 to write to new file'
