@@ -10,15 +10,23 @@ Usage:
 
 ##Example 
 Input:
-> how\n
-> why\n
-> when\n
-> where\n
-> who\n
+> how
+>
+> why
+>
+> when
+>
+> where
+>
+> who
 
 Output:
-> how to make slime\n
-> why him\n
-> when is easter\n
-> where am i\n
-> who is the next bachelor\n
+> how to make slime
+>
+> why him
+>
+> when is easter
+>
+> where am i
+>
+> who is the next bachelor
